@@ -1,0 +1,2 @@
+# Opt-http.server
+改进的python3 http.server，重写了http.server.SimpleHTTPRequestHandler类里面的log_message方法，现在使用该脚本可以改进http.server只能输出到屏幕却无法记录到文件的缺陷
